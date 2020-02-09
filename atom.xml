@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kang Personal Page</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://kangjie888.github.io/"/>
+  <updated>2019-12-12T02:43:38.000Z</updated>
+  <id>https://kangjie888.github.io/</id>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>勇敢做自己</title>
+    <link href="https://kangjie888.github.io/2019/11/25/%E5%8B%87%E6%95%A2%E5%81%9A%E8%87%AA%E5%B7%B1/"/>
+    <id>https://kangjie888.github.io/2019/11/25/%E5%8B%87%E6%95%A2%E5%81%9A%E8%87%AA%E5%B7%B1/</id>
+    <published>2019-11-25T14:47:51.000Z</published>
+    <updated>2019-12-12T02:43:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2019/11/25/%E5%8B%87%E6%95%A2%E5%81%9A%E8%87%AA%E5%B7%B1/birthday.jpg" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/2019/11/25/%E5%8B%87%E6%95%A2%E5%81%9A%E8%87%AA%E5%B7%B1/birthday.jpg&quot; alt&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Birthday" scheme="https://kangjie888.github.io/tags/Birthday/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Way You Must Choose</title>
+    <link href="https://kangjie888.github.io/2019/11/24/The-Way-You-Must-Choose/"/>
+    <id>https://kangjie888.github.io/2019/11/24/The-Way-You-Must-Choose/</id>
+    <published>2019-11-24T11:36:07.000Z</published>
+    <updated>2019-11-24T14:37:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2019/11/24/The-Way-You-Must-Choose/laoluo.jpg" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/2019/11/24/The-Way-You-Must-Choose/laoluo.jpg&quot; alt&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="杂文" scheme="https://kangjie888.github.io/tags/%E6%9D%82%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Special One is Back</title>
+    <link href="https://kangjie888.github.io/2019/11/23/The-Special-One-is-Back/"/>
+    <id>https://kangjie888.github.io/2019/11/23/The-Special-One-is-Back/</id>
+    <published>2019-11-23T04:51:00.000Z</published>
+    <updated>2019-11-24T14:36:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2019/11/23/The-Special-One-is-Back/001.jpg" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/2019/11/23/The-Special-One-is-Back/001.jpg&quot; alt&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="杂文" scheme="https://kangjie888.github.io/tags/%E6%9D%82%E6%96%87/"/>
+    
+  </entry>
+  
+</feed>
